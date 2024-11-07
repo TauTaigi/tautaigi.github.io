@@ -1,15 +1,15 @@
-baseURL = "https://example.com"
+baseURL = "https://tau.taigi.info"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "taibun"
 
 # The name of this wonderful theme ;-).
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Jane Doe - Nutrition Coach & Chef Consultant"
+title = "台語貓😻鬥台語－台語羅馬字學習牌仔"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -38,10 +38,10 @@ enableEmoji = true
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Jane Doe - Nutrition Coach & Chef Consultant"
+    title = "台語貓😻鬥台語"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Nutrition Coach & Chef Consultant"
+    description = "台語羅馬字學習牌仔"
 
     # Show a menu of languages available
     language_menu = true
@@ -52,11 +52,11 @@ enableEmoji = true
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Jane Doe"
+    copyright = "© Tâi-gí Niau 台語貓"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
-    hidedesignbyline = false
+    hidedesignbyline = true
 
     # The sections of the home page alternate styling. Mark invert as true to swap the styling of the sections
     invertSectionColors = false
@@ -76,18 +76,18 @@ enableEmoji = true
     showFooterLinks = false
 
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+        keywords = "Tâi-gí, 台語, Tâi-gí Niau, 台語貓, Lô-má-jī, 羅馬字, Pe̍h-ōe-jī, 白話字, Tâi-lô, 台羅, pâi-á, 牌仔, ha̍k-si̍p, 學習, kàu-châi, 教材, kàu-kū, 教具"
 
     [[params.contacts]]
-        label = "phone"
-        value = "+49 1111 555555"
-        url = "tel:+49 1111 555555"
-        icon = "fa fa-phone"
+        label = "Linktree"
+        value = "Linktree"
+        url = "https://linktr.ee/taiginiau"
+        icon = "fa fa-external-link"
 
     [[params.contacts]]
-        label = "email"
-        value = "mail@janedoe.com"
-        url = "mailto:mail@janedoe.com"
+        label = "Email"
+        value = "Email"
+        url = "mailto:taiginiau@gmail.com"
         icon = "fa fa-envelope"
 
     # Add additional contacts here!
@@ -99,13 +99,17 @@ enableEmoji = true
 
 # Define additional languages
 [languages]
-  [languages.en]
+  [languages.taibun]
     weight = 10
-    languageName = "English"
-    contentDir = "content/en"
+    languageName = "Tâi-bûn 台文"
+    contentDir = "content/taibun"
 
-  [languages.de]
-    title = "Erika Musterfrau - Ernährungshilfe & Kochberatung"
+  [languages.tiongbun]
     weight = 20
-    contentDir = "content/de"
-    languageName = "Deutsch"
+    contentDir = "content/tiongbun"
+    languageName = "中文"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.extensions.typographer]
+disable = true
