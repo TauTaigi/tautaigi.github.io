@@ -27,3 +27,11 @@ header_menu: true
 
 ![](images/paia1_kip_jibo.jpg)
 ![](images/paia1_kip_sianntiau.jpg)
+
+---
+
+#### 來去注文
+
+👉 [鬥台語 #1 字母聲調牌仔（白話字版）](https://www.pinkoi.com/product/mKKe2RTE)
+
+👉 [鬥台語 #1 字母聲調牌仔（教育部羅馬拼音版）](https://www.pinkoi.com/product/p4HV6qwH)
