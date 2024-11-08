@@ -1,5 +1,5 @@
 ---
-title: "連絡 Liân-lo̍k"
+title: "連絡"
 weight: 66
 header_menu: true
 ---

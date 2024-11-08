@@ -1,7 +1,7 @@
 ---
 title: "鬥台語 #3 鬥GÂU鬥"
 weight: 6
-header_menu: true
+header_menu: false
 ---
 
 （正在開發試驗中，未來會正式公開）

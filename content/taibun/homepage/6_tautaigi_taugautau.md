@@ -1,7 +1,7 @@
 ---
 title: "鬥台語 #3 鬥GÂU鬥"
 weight: 6
-header_menu: true
+header_menu: false
 ---
 
 （Tng teh試驗，未來會正式公開）

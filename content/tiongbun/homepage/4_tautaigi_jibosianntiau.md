@@ -1,7 +1,7 @@
 ---
 title: "鬥台語 #1 字母聲調牌仔"
 weight: 4
-header_menu: true
+header_menu: false
 ---
 
 這組牌組自從我親身在學校教學使用、推廣之後，受到許多母語教師歡迎，感謝大家！🙏

@@ -14,6 +14,6 @@ header_menu: true
 
 學台語羅馬字，一邊玩牌一邊記，趣味又簡單！😎
 
-如果需要學台語羅馬字基礎，推薦你去我朋友那邊坐坐，🐶 [狗公會曉學台語](https://oh.taigi.info)～
+如果想學完整的台語羅馬字知識，推薦你去我朋友那邊坐坐，🐶 {{< icon name="arrow-up-right-from-square" >}} [狗公會曉學台語](https://oh.taigi.info)～
 
-台語貓還有其他趣味的東西，歡迎來參觀：[台語貓 Pinkoi](https://www.pinkoi.com/store/taiginiau)
+台語貓還有其他趣味的東西，歡迎來參觀：{{< icon name="arrow-up-right-from-square" >}} [台語貓 Pinkoi](https://www.pinkoi.com/store/taiginiau)
