@@ -1,0 +1,11 @@
+---
+title: "連絡"
+weight: 66
+header_menu: true
+---
+
+歡迎各種合作，教學、培訓。
+
+請聯絡台語貓：
+
+{{<contact_list>}}
