@@ -1,0 +1,148 @@
+/*
+    variables.scss
+*/
+
+:root {
+    /* === Cover / Landing area === */
+    /* === sticky top/left navigation menus === */
+    --sticky-menu-bg-color: #f4f6d8;
+
+
+    /* === Alternating content (post) sections  === */
+    /* Light section - background color */
+    --section-light-bg-color: #e7f2e5;
+
+    /* Dark section - background color */
+    --section-dark-bg-color: #5f8b66;
+}
+
+/*
+    theme.scss
+*/
+
+/* // ========== Sticky menus =========== */
+/* Left sticky menu */
+.fixed-nav {
+    background-color: var(--sticky-menu-bg-color);
+}
+
+/*
+    font.css
+*/
+
+@font-face {
+    font-family: 'Taibun';
+    font-weight: 400;
+    font-display: swap;
+    src: local('Taibun'),
+        url('../fonts/jf-openhuninn-2.0.woff2') format('woff2'),
+        url('../fonts/jf-openhuninn-2.0.woff') format('woff');
+}
+
+/*
+    theme.scss
+*/
+
+/* ===== Cover =======*/
+
+#site-head,
+#site-head.withCenteredImage {
+
+    .blog-description {
+        font-family: "Taibun";
+    }
+
+    /* // Landing screen menu */
+    a.btn,
+    #site-languages .btn-lang {
+        font-family: "Taibun";
+    }
+}
+
+/* // ========== Sticky menus =========== */
+/* Left sticky menu */
+.fixed-nav {
+    font-family: "Taibun";
+}
+
+
+/** ==========  Site footer ============ */
+.site-footer {
+    font-family: "Taibun";
+}
+
+/*
+    content.scss
+*/
+
+body {
+    font-family: "Taibun";
+}
+
+/** =========== Headings =========== */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Taibun";
+}
+
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Taibun";
+}
+
+
+code,
+tt {
+    font-family: "Taibun";
+}
+
+code {
+    font-family: "Taibun";
+}
+
+pre {
+    font-family: "Taibun";
+}
+
+
+/**
+ * 1. Correct the inheritance and scaling of font size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+
+pre {
+    font-family: "Taibun";
+}
+
+/**
+ * 1. Correct the inheritance and scaling of font size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+
+code,
+kbd,
+samp {
+    font-family: "Taibun";
+}
+
+/* Forms
+   ========================================================================== */
+
+/**
+ * 1. Change the font styles in all browsers.
+ * 2. Remove the margin in Firefox and Safari.
+ */
+
+button,
+input,
+optgroup,
+select,
+textarea {
+    font-family: "Taibun";
+}

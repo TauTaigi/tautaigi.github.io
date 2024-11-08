@@ -29,7 +29,7 @@
      local "static/css"-directory. Then add a <link>-tag
      referencing your "custom.css" like so: -->
 
-<!-- <link rel="stylesheet" href='{{ "css/custom.css" | absURL }}'> -->
+<link rel="stylesheet" href='{{ "css/custom.css" | absURL }}'>
 
 <!-- Custom CSS: Color Codes
      You may checkout https://htmlcolorcodes.com/ to get those
@@ -46,26 +46,3 @@
 resources.Get $file }}
 <link rel="icon" type="{{ .MediaType.Type }}" sizes="{{- $size -}}x{{- $size -}}" href="{{ .RelPermalink }}" />{{ end
 }}{{ end }}
-
-<style>
-     :root {
-          --sticky-menu-bg-color: #f4f6d8;
-          --section-light-bg-color: #e7f2e5;
-          --section-dark-bg-color: #5f8b66;
-     }
-
-     @font-face {
-          font-family: 'Taibun';
-          font-weight: 400;
-          font-display: swap;
-          src: local('Taibun'),
-               url('fonts/jf-openhuninn-2.0.woff2') format('woff2'),
-               url('fonts/jf-openhuninn-2.0.woff') format('woff');
-          /* url('fonts/iansui.woff2') format('woff2'),
-             url('fonts/iansui.woff') format('woff'); */
-     }
-
-     * {
-          font-family: 'Taibun';
-     }
-</style>
