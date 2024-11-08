@@ -1,6 +1,6 @@
 ---
 title: "鬥台語 說明書 📜"
-weight: 7
+weight: 8
 header_menu: true
 ---
 
