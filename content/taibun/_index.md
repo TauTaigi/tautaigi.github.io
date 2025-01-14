@@ -9,7 +9,7 @@ header_use_video: false
 header_logo: "images/chef-hat.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "台語貓😻鬥台語"
+header_headline: "台語貓 鬥台語"
 header_subheadline: "台語<b>羅馬字</b>學習<b>牌仔</b>"
 
 # Add a 'Go back to top' item to the navigation menu

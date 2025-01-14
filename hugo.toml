@@ -9,7 +9,7 @@ defaultContentLanguage = "taibun"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "台語貓😻鬥台語－台語羅馬字學習牌仔"
+title = "台語貓 鬥台語－台語羅馬字學習牌仔"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -38,7 +38,7 @@ enableEmoji = true
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "台語貓😻鬥台語"
+    title = "台語貓 鬥台語"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "台語羅馬字學習牌仔"
