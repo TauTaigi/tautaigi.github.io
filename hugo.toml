@@ -41,7 +41,7 @@ enableEmoji = true
     title = "台語貓 鬥台語"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "台語羅馬字學習牌仔"
+    description = "台語羅馬字學習牌仔（桌遊、教具）"
 
     # Show a menu of languages available
     language_menu = true

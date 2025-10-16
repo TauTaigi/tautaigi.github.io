@@ -12,20 +12,30 @@ header_menu: false
 
 ---
 
-字母聲調牌仔，1組2副，1副字母、1副聲調。計共有10幾種規則thang變化！
+#### 內容特色
+
+字母聲調牌仔，1組有2副（1副字母、1副聲調）。
+
+計共有10幾種規則，mā會使像khe-chí-báng（poker牌仔）自由變化！！
 
 ---
 
 #### 白話字版
 
+字母牌仔
 ![](images/paia1_poj_jibo.jpg)
+
+聲調牌仔
 ![](images/paia1_poj_sianntiau.jpg)
 
 ---
 
 #### 教育部羅馬拼音版
 
+字母牌仔
 ![](images/paia1_kip_jibo.jpg)
+
+聲調牌仔
 ![](images/paia1_kip_sianntiau.jpg)
 
 ---

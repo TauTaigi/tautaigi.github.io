@@ -7,3 +7,6 @@ header_menu: true
 - 鬥台語 #1 字母聲調牌仔
     - [鬥台語 #1 字母聲調牌仔（白話字版）](https://www.pinkoi.com/product/mKKe2RTE)
     - [鬥台語 #1 字母聲調牌仔（教育部羅馬拼音版）](https://www.pinkoi.com/product/p4HV6qwH)
+
+- 鬥台語 #2 台英雙語點讀生活語詞卡
+    - 最近公佈！🚀
