@@ -1,7 +1,7 @@
 ---
 title: "鬥台語 #1 字母聲調牌仔"
 weight: 4
-header_menu: false
+header_menu: true
 ---
 
 這組牌仔自我2018年設計了，親身tī學校教學、推廣，愈來愈chē母語教師tī學校使用，感謝大家！🙏
